@@ -11,4 +11,6 @@ marginaltechie/marginaltechie is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi :) My name is Ravi Murugesan and I plan to use this repository to share technical notes and help guides related to my work.
+# Hi 👋 
+
+
